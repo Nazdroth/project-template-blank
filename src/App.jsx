@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn Solidy! adsdas
+          Hello world, is there a preview environment?
         </a>
       </header>
     </div>
